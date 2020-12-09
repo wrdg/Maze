@@ -340,3 +340,4 @@ src/Maze.Server/appsettings.Production.json
 src/projectTemplates/module/ModuleTemplateWizard/ProjectTemplates
 build/
 tools/
+build.fsx.lock
